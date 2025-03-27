@@ -32,11 +32,11 @@ Welcome to our Personal Finance Manager project repository! This project aims to
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Personal Finance Manager project, please follow this [CONTRIBUTING]().
+We welcome contributions from the community! If you'd like to contribute to the Personal Finance Manager project, please follow this [CONTRIBUTING](https://github.com/SophieNguyen113/Personal-Finance-Manager/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the [LICENSE]().
+This project is licensed under the [LICENSE](https://github.com/SophieNguyen113/Personal-Finance-Manager/blob/main/LICENSE).
 
 ## Contact
 

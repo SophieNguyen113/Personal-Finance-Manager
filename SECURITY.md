@@ -2,11 +2,11 @@
 
 ## Scope
 
-This security policy applies to all aspects of the Mobile App Development Fall 2024 Project 1, including but not limited to the codebase, documentation, and website.
+This security policy applies to all aspects of the Personal Finance Manager project, including but not limited to the codebase, documentation, and website.
 
 ## Reporting a Vulnerability
 
-If users discover a security vulnerability in this project, please report it by [creating an issue](https://github.com/CSC4360Project2/Project-1-Expense-Tracker-Application/issues) in the issue tracker. Include as much detail as possible about the vulnerability and steps to reproduce it.
+If users discover a security vulnerability in this project, please report it by [creating an issue](https://github.com/SophieNguyen113/Personal-Finance-Manager/issues) in the issue tracker. Include as much detail as possible about the vulnerability and steps to reproduce it.
 
 ### Expectations
 

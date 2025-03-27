@@ -25,7 +25,7 @@ Before submitting a PR, please ensure that your code adheres to the following gu
 
 ## Reporting Bugs
 
-If you encounter any bugs or issues while using Mobile App Development Fall 2024 Project 1, please report them by [creating an issue]() on GitHub. Make sure to include as much detail as possible, including steps to reproduce the issue.
+If you encounter any bugs or issues while using Personal Finance Manager, please report them by [creating an issue](https://github.com/SophieNguyen113/Personal-Finance-Manager/issues) on GitHub. Make sure to include as much detail as possible, including steps to reproduce the issue.
 
 ## Contact
 
@@ -33,7 +33,7 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 ## License
 
-By contributing to Personal Finance Manager project, you agree that your contributions will be licensed under the Apache License. See the [LICENSE]() file for more details.
+By contributing to Personal Finance Manager project, you agree that your contributions will be licensed under the Apache License. See the [LICENSE](https://github.com/SophieNguyen113/Personal-Finance-Manager?tab=Apache-2.0-1-ov-file) file for more details.
 
 Thank you for your interest in contributing to Personal Finance Manager project! We appreciate your help in making this project better for everyone.
 
