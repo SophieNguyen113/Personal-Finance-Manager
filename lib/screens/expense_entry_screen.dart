@@ -97,7 +97,7 @@ class ExpenseEntryScreenState extends State<ExpenseEntryScreen> {
                         value,
                         style: GoogleFonts.rubik(
                           color: Colors.black,
-                          fontSize: 20,
+                          fontSize: 14,
                         ),
                       ),
                     );
