@@ -77,7 +77,7 @@ class BudgetSetupScreenState extends State<BudgetSetupScreen> {
                     ),
                   ],
                 ),
-                SizedBox(height: 16.0),
+                SizedBox(height: 20.0),
                 DropdownButtonFormField(
                   value: _controller.selectedCategory,
                   hint: Text('Category'),

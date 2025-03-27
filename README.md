@@ -22,7 +22,7 @@ Welcome to our Personal Finance Manager project repository! This project aims to
 - [**Project Proposal**]()
 - [**APK File**]()
 - [**PowerPoint Presentation**]()
-- [**Youtube Video**]()
+- [**Video**]()
 
 ## Key Features
 

@@ -8,7 +8,7 @@ class DialogWidgets {
         context: context,
         builder: (BuildContext context) {
           return AlertDialog(
-            backgroundColor: Colors.pinkAccent.shade100,
+            backgroundColor: Colors.blueAccent.shade100,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(30.0), 
               side: BorderSide(
