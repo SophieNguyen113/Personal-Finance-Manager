@@ -94,7 +94,7 @@ class BudgetSetupScreenState extends State<BudgetSetupScreen> {
                         value,
                         style: GoogleFonts.rubik(
                           color: Colors.black,
-                          fontSize: 20,
+                          fontSize: 18,
                         ),
                       ),
                     );
