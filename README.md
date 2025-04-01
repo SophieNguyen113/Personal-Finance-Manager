@@ -19,10 +19,10 @@ Welcome to our Personal Finance Manager project repository! This project aims to
 
 ## Project Details
 
-- [**Project Proposal**]()
-- [**APK File**]()
-- [**PowerPoint Presentation**]()
-- [**Video**]()
+- [**Project Proposal**](https://drive.google.com/file/d/1Z5juHPHJzevMhjEhoYhVyLAKNLlrKBol/view?usp=sharing)
+- [**APK File**](https://drive.google.com/file/d/1Eb02GgCHLx9QFxYUqkyuVpAl-Q0uh45h/view?usp=sharing)
+- [**PowerPoint Presentation**](https://docs.google.com/presentation/d/18dmTwI6RHTnJvB1N8NcqEVHloeCTtkXg/edit?usp=sharing&ouid=115868471783120857845&rtpof=true&sd=true)
+- [**Video**](https://drive.google.com/file/d/1YxmGu69ZFUY7_mntNcVB5791fRfiO7uQ/view?usp=sharing)
 
 ## Key Features
 
